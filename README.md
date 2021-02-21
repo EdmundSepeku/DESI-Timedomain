@@ -1,2 +1,4 @@
 # DESI-Timedomain
-ML toolkit for classifying transient spectra
+ML toolkit used to study transient spectra from the DESI pipeline
+Main code used to classify transients
+These files were developed under the supervision of Professor Segev BenZvi
